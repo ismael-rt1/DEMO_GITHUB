@@ -1,0 +1,16 @@
+Acceso Servidor BI
+
+----------------
+10.74.79.231
+8958
+----------------
+iruiz
+iruiz321
+-------reqTRACKER.NET-------
+iruiz
+iruiz4w@
+
+
+----------------Conectar a sever que conecta al FTP--------  servicio donde procesa los archivos de concilaicion
+
+10.74.79.221
